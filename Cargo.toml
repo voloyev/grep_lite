@@ -1,0 +1,6 @@
+[package]
+name = "grep-lite"
+version = "0.1.0"
+authors = ["Volodymyr Yevtushenko <volodymyr_yevtushenko@epam.com>"]
+
+[dependencies]
